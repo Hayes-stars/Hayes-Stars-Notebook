@@ -1,2 +1,5 @@
 - [JavaScript](javascript/)
-- [Array](javascript/array/elegant)
+  - [standard](javascript/standard)
+  - [Array](javascript/array/elegant)
+- [React](react/)
+  - [standard](react/standard)
