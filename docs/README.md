@@ -12,7 +12,6 @@ https://www.cnblogs.com/xilifeng/p/5538711.html
 ## 2、全局安装 docsify
 
 ```
-
 npm i docsify-cli -g
 
 ```
@@ -42,9 +41,11 @@ npm i docsify-cli -g
   ```
     docsify serve docs
   ```
-- 4、通过 github 发布文档
+- 4、通过 github 发布文档，详细部署可以查看官方文档；
 
 ## 官方文档：
+
+[docsify](https://docsify.js.org/#/)
 
 ```
 https://docsify.js.org/#/
