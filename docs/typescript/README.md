@@ -18,3 +18,10 @@
 ```bash
 tsc demo.ts
 ```
+
+搭建Node TS开发环境
+
+```bash
+package.json创建： npm init -y
+开发依赖安装： npm i typescript ts-node-dev tslint @types/node -D
+```

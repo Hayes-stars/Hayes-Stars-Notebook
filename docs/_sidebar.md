@@ -2,6 +2,7 @@
   - [规范](javascript/standard)
   - [数组](javascript/array/elegant)
 - [TypeScript](typescript/)
+  - [规范](typescript/standard)
   - [装饰器](typescript/decorator)
 - [NodeJs](nodejs/)
 - [React](react/)
