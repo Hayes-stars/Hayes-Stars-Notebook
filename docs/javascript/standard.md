@@ -1,34 +1,34 @@
-# JavaScript Style Guide() {
+# JavaScript Style Guide
 
 **用更合理的方式写 JavaScript**
 
-## <a name="table-of-contents">目录</a>
+## 目录
 
-1. [类型](#types)
-1. [对象](#objects)
-1. [数组](#arrays)
-1. [字符串](#strings)
-1. [函数](#functions)
-1. [属性](#properties)
-1. [变量](#variables)
-1. [提升](#hoisting)
-1. [比较运算符 & 等号](#comparison-operators--equality)
-1. [块](#blocks)
-1. [注释](#comments)
-1. [空白](#whitespace)
-1. [逗号](#commas)
-1. [分号](#semicolons)
-1. [类型转化](#type-casting--coercion)
-1. [命名规则](#naming-conventions)
-1. [存取器](#accessors)
-1. [构造函数](#constructors)
-1. [事件](#events)
-1. [模块](#modules)
-1. [ECMAScript 5 兼容性](#ecmascript-5-compatibility)
-1. [测试](#testing)
-1. [资源](#resources)
+1. [类型](#类型)
+1. [对象](#对象)
+1. [数组](#数组)
+1. [字符串](#字符串)
+1. [函数](#函数)
+1. [属性](#属性)
+1. [变量](#变量)
+1. [提升](#提升)
+1. [比较运算符和等号](#比较运算符和等号)
+1. [块](#块)
+1. [注释](#注释)
+1. [空白](#空白)
+1. [逗号](#逗号)
+1. [分号](#分号)
+1. [类型转化](#类型转化)
+1. [命名规则](#命名规则)
+1. [存取器](#存取器)
+1. [构造函数](#构造函数)
+1. [事件](#事件)
+1. [模块](#模块)
+1. [ECMAScript5兼容性](#ECMAScript5兼容性)
+1. [测试](#测试)
+1. [资源](#资源)
 
-## <a name="types">类型</a>
+## 类型
 
 - **原始值**: 存取直接作用于它自身。
 
@@ -62,7 +62,7 @@
   console.log(foo[0], bar[0]) // => 9, 9
   ```
 
-**[⬆ 回到顶部](#table-of-contents)**
+**[⬆ 回到顶部](#目录)**
 
 ## <a name="objects">对象</a>
 
@@ -111,7 +111,7 @@
   }
   ```
 
-**[⬆ 回到顶部](#table-of-contents)**
+**[⬆ 回到顶部](#目录)**
 
 ## <a name="arrays">数组</a>
 
@@ -162,7 +162,7 @@
   }
   ```
 
-**[⬆ 回到顶部](#table-of-contents)**
+**[⬆ 回到顶部](#目录)**
 
 ## <a name="strings">字符串</a>
 
@@ -253,7 +253,7 @@
   }
   ```
 
-**[⬆ 回到顶部](#table-of-contents)**
+**[⬆ 回到顶部](#目录)**
 
 ## <a name="functions">函数</a>
 
@@ -311,7 +311,7 @@
   }
   ```
 
-**[⬆ 回到顶部](#table-of-contents)**
+**[⬆ 回到顶部](#目录)**
 
 ## <a name="properties">属性</a>
 
@@ -345,7 +345,7 @@
   var isJedi = getProp('jedi')
   ```
 
-**[⬆ 回到顶部](#table-of-contents)**
+**[⬆ 回到顶部](#目录)**
 
 ## <a name="variables">变量</a>
 
@@ -468,7 +468,7 @@
   }
   ```
 
-**[⬆ 回到顶部](#table-of-contents)**
+**[⬆ 回到顶部](#目录)**
 
 ## <a name="hoisting">提升</a>
 
@@ -550,9 +550,9 @@
 
 - 了解更多信息在 [JavaScript Scoping & Hoisting](http://www.adequatelygood.com/2010/2/JavaScript-Scoping-and-Hoisting) by [Ben Cherry](http://www.adequatelygood.com/).
 
-**[⬆ 回到顶部](#table-of-contents)**
+**[⬆ 回到顶部](#目录)**
 
-## <a name="comparison-operators--equality">比较运算符 & 等号</a>
+## <a name="comparison-operators--equality">比较运算符和等号</a>
 
 - 优先使用 `===` 和 `!==` 而不是 `==` 和 `!=`.
 - 条件表达式例如 `if` 语句通过抽象方法 `ToBoolean` 强制计算它们的表达式并且总是遵守下面的规则：
@@ -597,7 +597,7 @@
 
 - 了解更多信息在 [Truth Equality and JavaScript](http://javascriptweblog.wordpress.com/2011/02/07/truth-equality-and-javascript/#more-2108) by Angus Croll.
 
-**[⬆ 回到顶部](#table-of-contents)**
+**[⬆ 回到顶部](#目录)**
 
 ## <a name="blocks">块</a>
 
@@ -645,7 +645,7 @@
   }
   ```
 
-**[⬆ 回到顶部](#table-of-contents)**
+**[⬆ 回到顶部](#目录)**
 
 ## <a name="comments">注释</a>
 
@@ -733,7 +733,7 @@
   }
   ```
 
-**[⬆ 回到顶部](#table-of-contents)**
+**[⬆ 回到顶部](#目录)**
 
 ## <a name="whitespace">空白</a>
 
@@ -916,7 +916,7 @@
   return obj
   ```
 
-**[⬆ 回到顶部](#table-of-contents)**
+**[⬆ 回到顶部](#目录)**
 
 ## <a name="commas">逗号</a>
 
@@ -974,7 +974,7 @@
     ];
     ```
 
-**[⬆ 回到顶部](#table-of-contents)**
+**[⬆ 回到顶部](#目录)**
 
 ## <a name="semicolons">分号</a>
 
@@ -1002,7 +1002,7 @@
 
   [了解更多](http://stackoverflow.com/a/7365214/1712802).
 
-**[⬆ 回到顶部](#table-of-contents)**
+**[⬆ 回到顶部](#目录)**
 
 ## <a name="type-casting--coercion">类型转换</a>
 
@@ -1084,7 +1084,7 @@
   var hasAge = !!age
   ```
 
-**[⬆ 回到顶部](#table-of-contents)**
+**[⬆ 回到顶部](#目录)**
 
 ## <a name="naming-conventions">命名规则</a>
 
@@ -1223,7 +1223,7 @@
   var CheckBox = require('./CheckBox')
   ```
 
-**[⬆ 回到顶部](#table-of-contents)**
+**[⬆ 回到顶部](#目录)**
 
 ## <a name="accessors">存取器</a>
 
@@ -1276,7 +1276,7 @@
   }
   ```
 
-**[⬆ 回到顶部](#table-of-contents)**
+**[⬆ 回到顶部](#目录)**
 
 ## <a name="constructors">构造函数</a>
 
@@ -1358,7 +1358,7 @@
   }
   ```
 
-**[⬆ 回到顶部](#table-of-contents)**
+**[⬆ 回到顶部](#目录)**
 
 ## <a name="events">事件</a>
 
@@ -1388,7 +1388,7 @@
   });
   ```
 
-**[⬆ 回到顶部](#table-of-contents)**
+**[⬆ 回到顶部](#目录)**
 
 ## <a name="modules">模块</a>
 
@@ -1418,13 +1418,13 @@
   })(this)
   ```
 
-**[⬆ 回到顶部](#table-of-contents)**
+**[⬆ 回到顶部](#目录)**
 
-## <a name="ecmascript-5-compatibility">ECMAScript 5 兼容性</a>
+## <a name="ecmascript-5-compatibility">ECMAScript5兼容性</a>
 
 - 参考 [Kangax](https://twitter.com/kangax/) 的 ES5 [兼容表](http://kangax.github.com/es5-compat-table/).
 
-**[⬆ 回到顶部](#table-of-contents)**
+**[⬆ 回到顶部](#目录)**
 
 ## <a name="testing">测试</a>
 
@@ -1436,7 +1436,7 @@
   }
   ```
 
-**[⬆ 回到顶部](#table-of-contents)**
+**[⬆ 回到顶部](#目录)**
 
 ## <a name="resources">资源</a>
 
@@ -1505,6 +1505,4 @@
 - [Dustin Diaz](http://dustindiaz.com/)
 - [nettuts](http://net.tutsplus.com/?s=javascript)
 
-**[⬆ 回到顶部](#table-of-contents)**
-
-# };
+**[⬆ 回到顶部](#目录)**

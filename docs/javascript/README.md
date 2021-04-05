@@ -1,1 +1,1 @@
-## JavaScript Docs
+# JavaScript Docs
