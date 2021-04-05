@@ -332,6 +332,8 @@ function configurable(value: boolean) {
 
 ```
 
+**[top](#typeScript-decorators)**
+
 ### 示例：属性装饰器
 
 属性装饰器声明在一个属性声明之前（紧靠着属性声明）。 属性装饰器不能用在声明文件中（.d.ts），或者任何外部上下文（比如declare的类）里。
