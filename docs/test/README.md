@@ -91,3 +91,5 @@
 > 再具体分析用户使用频率和模块缺陷严重程度的分布情况，分梯队对重点模块进行测试。
 
 ![avatar](./../asset/images/test/精准测试脑图.png)
+
+> 此学习资料来自`https://time.geekbang.org/`
