@@ -1,5 +1,7 @@
 # Hayes-Stars-Notebook
 
+> 没有输出的学习与消遣无异。
+
 ## 1、安装 node 和 npm
 
 ```
