@@ -1,0 +1,1 @@
+以函数取代命令(Replace Command with Function)

@@ -1,0 +1,1 @@
+# 以委托取代超类(Replace Superclass with Delegate)

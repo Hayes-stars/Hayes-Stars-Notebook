@@ -1,0 +1,1 @@
+# 保持对象完整(Preserve Whole Object)

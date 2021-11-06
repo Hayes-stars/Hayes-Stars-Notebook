@@ -1,0 +1,1 @@
+# 以工厂函数取代构造函数(Replace Constructor with Factory Function)

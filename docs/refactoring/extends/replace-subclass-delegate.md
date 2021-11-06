@@ -1,0 +1,1 @@
+# 以委托取代子类(Replace Subclass with Delegate)

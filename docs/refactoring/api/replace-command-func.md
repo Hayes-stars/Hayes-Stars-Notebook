@@ -1,0 +1,1 @@
+# 以命令取代函数(Replace Function with Command)
