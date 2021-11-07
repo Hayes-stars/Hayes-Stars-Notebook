@@ -48,8 +48,3 @@ npm i docsify-cli -g
 ## 官方文档：
 
 [docsify](https://docsify.js.org/#/)
-
-```
-https://docsify.js.org/#/
-
-```
