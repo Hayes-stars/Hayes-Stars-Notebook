@@ -66,9 +66,9 @@
 2. [内联函数(Inline Function)](refactoring/first/inline-functions)
 3. [提炼变量(Extract Variable)](refactoring/first/extract-variable)
 4. [内联变量(Inline Variable)](refactoring/first/inline-variable)
-5. [改变函数声明(Change Function Declaration)](refactoring/first/change-func-delcare)
+<!-- 5. [改变函数声明(Change Function Declaration)](refactoring/first/change-func-delcare) -->
 6. [封装变量(Encapsulate Variable)](refactoring/first/encapsulate-variable)
-7. [变量改名(Rename Variable)](refactoring/first/rename-variable)
+<!-- 7. [变量改名(Rename Variable)](refactoring/first/rename-variable) -->
 8. [引入参数对象(Introduce Parameter Object)](refactoring/first/introduce-params-obj)
 9. [函数组合成类(Combine Function into Class)](refactoring/first/combine-func-class)
 10. [函数组合成变换(Combine Functions into Transform)](refactoring/first/combine-func-into-transform)

@@ -6,13 +6,13 @@
 
 - [JavaScript 重构方法](refactoring/)
 
-    - [提炼函数](refactoring/first/extract-function)
+    - [提炼函数](refactoring/first/extract-function)    
     - [内联函数](refactoring/first/inline-functions)
     - [提炼变量](refactoring/first/extract-variable)
     - [内联变量](refactoring/first/inline-variable)
-    - [改变函数声明](refactoring/first/change-func-delcare)
+    <!-- - [改变函数声明](refactoring/first/change-func-delcare) -->
     - [封装变量](refactoring/first/encapsulate-variable)
-    - [变量改名](refactoring/first/rename-variable)
+    <!-- - [变量改名](refactoring/first/rename-variable) -->
     - [引入参数对象](refactoring/first/introduce-params-obj)
     - [函数组合成类](refactoring/first/combine-func-class)
     - [函数组合成变换](refactoring/first/combine-func-into-transform)
