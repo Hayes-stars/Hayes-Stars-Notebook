@@ -10,7 +10,7 @@
 
 ## 做法
 
-- 对条件判断和每个条件分支分别运用[提炼函数](refactoring/first/extractFunction)手法。
+- 对条件判断和每个条件分支分别运用[提炼函数](refactoring/first/extract-function)手法。
 
 ## 范例
 

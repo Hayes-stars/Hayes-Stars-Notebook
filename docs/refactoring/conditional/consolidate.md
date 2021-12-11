@@ -7,15 +7,15 @@
 
 ## 好处
 
-- 可以为使用[提炼函数](refactoring/first/extractFunction)做好准备。把检查条件提炼成一个独立的函数，把描述“做什么”的语句换成了“为什么这样做”。
+- 可以为使用[提炼函数](refactoring/first/extract-function)做好准备。把检查条件提炼成一个独立的函数，把描述“做什么”的语句换成了“为什么这样做”。
 
 ## 做法
 
 - 确定条件表达式没有副作用
-  - 如果某个条件表达式有副作用，可以先用[将查询函数和修改函数分离](refactoring/api/sqfm)处理。
+  - 如果某个条件表达式有副作用，可以先用[将查询函数和修改函数分离](refactoring/api/separate-query-modify)处理。
 - 使用适当的逻辑运算符，将两个相关条件表达式合并为一个。
   - 顺序执行的条件表达式用逻辑或来合并，嵌套的 if 语句用逻辑与来合并。
-- 考虑对合并后的条件表达式实施[提炼函数](refactoring/first/extractFunction)
+- 考虑对合并后的条件表达式实施[提炼函数](refactoring/first/extract-function)
 
 ## 范例 逻辑或
 
@@ -45,7 +45,7 @@ function disabilityAmount(anEmployee) {
 }
 ```
 
-- 合并后，再对条件表达式使用[提炼函数](refactoring/first/extractFunction)
+- 合并后，再对条件表达式使用[提炼函数](refactoring/first/extract-function)
 
 ```js
 function disabilityAmount(anEmployee) {

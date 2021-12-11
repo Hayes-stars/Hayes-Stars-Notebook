@@ -101,7 +101,7 @@
 ### 4 重新组织数据
 
 1. [拆分变量(Split Variable)](refactoring/reorganizing-data/split-variable)
-2. [字段改名(Rename Field)](refactoring/reorganizing-data/)
+2. [字段改名(Rename Field)](refactoring/reorganizing-data/rename-field)
 3. [以查询取代派生变量(Replace Derived Variable with Query)](refactoring/reorganizing-data/replace-variable-query)
 4. [将引用对象改为值对象(Change Reference to Value)](refactoring/reorganizing-data/change-ref-value)
 5. [将值对象改为引用对象(Change Value to Reference)](refactoring/reorganizing-data/change-value-ref)
