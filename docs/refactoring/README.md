@@ -1,6 +1,6 @@
-# 重构 refactoring 
+# JavaScript重构方法
 
-- 《重构2》读书笔记归纳，改善既有代码的设计
+- 《重构2》JavaScript重构方法归纳，改善既有代码的设计
 - 古人有云：“时时勤拂试，勿使惹尘埃”。代码当如是，专业人士的技艺亦当如是。
 
 > 当今软件开发的速度越来越快，带来的技术债也越来越多，在开发过程中充分认识到重构的重要性————如果我们程序员能理解和掌握重构的原则和方法，我们的系统就不会有那么多沉重的债务。
@@ -66,9 +66,9 @@
 2. [内联函数(Inline Function)](refactoring/first/inline-functions)
 3. [提炼变量(Extract Variable)](refactoring/first/extract-variable)
 4. [内联变量(Inline Variable)](refactoring/first/inline-variable)
-<!-- 5. [改变函数声明(Change Function Declaration)](refactoring/first/change-func-delcare) -->
+5. [改变函数声明(Change Function Declaration)](refactoring/first/change-func-delcare)
 6. [封装变量(Encapsulate Variable)](refactoring/first/encapsulate-variable)
-<!-- 7. [变量改名(Rename Variable)](refactoring/first/rename-variable) -->
+7. [变量改名(Rename Variable)](refactoring/first/rename-variable)
 8. [引入参数对象(Introduce Parameter Object)](refactoring/first/introduce-params-obj)
 9. [函数组合成类(Combine Function into Class)](refactoring/first/combine-func-class)
 10. [函数组合成变换(Combine Functions into Transform)](refactoring/first/combine-func-into-transform)
