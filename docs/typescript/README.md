@@ -1,6 +1,6 @@
 # TypeScript Docs
 
-## 安装TypeScript
+**安装TypeScript**
 
 有两种主要的方式来获取TypeScript工具：
 

@@ -1,1 +1,1 @@
-## Vue Docs
+# Vue Docs
